@@ -1,13 +1,3 @@
-Tiêu đề:
-Snake Game in Python
-
-Mô tả:
-Dự án này là một trò chơi "Rắn săn mồi" cổ điển được xây dựng bằng Python. Dự án được thiết kế để giúp lập trình viên mới học các khái niệm cơ bản về lập trình trò chơi như vòng lặp chính, xử lý sự kiện, và cập nhật giao diện đồ họa.
-
-Nội dung README:
-markdown
-Sao chép mã
-# Snake Game in Python
 
 ## 🚀 Mô tả
 Trò chơi "Snake Game" được viết bằng Python sử dụng thư viện `pygame`. Đây là một dự án đơn giản nhưng thú vị, mang lại cơ hội học hỏi về lập trình game cơ bản.

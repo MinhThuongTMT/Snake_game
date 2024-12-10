@@ -18,7 +18,8 @@ pip install pygame
 Chạy trò chơi:
 python snake_game.py
 
-Minh họa
+🎮Minh họa
+
 ![image](https://github.com/user-attachments/assets/b5d4774b-96c7-417a-83f8-c65fe72632ca)
 
 🎮 Hướng dẫn chơi
